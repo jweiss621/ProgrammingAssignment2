@@ -1,5 +1,5 @@
 ## The purpoose of the following functions is to cache the contents of a
-## matrix and the inverse of the matrix so when we need the inverse of the matrix again,
+## matrix and the inverse of a matrix so when we need the inverse of the matrix again,
 ## it can be looked up in the cache rather than recomputed
 
 ## The first function makeCacheMatrix creates a special "matrix" which is really a list
